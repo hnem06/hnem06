@@ -25,7 +25,9 @@ I am a college in Thang Long University. I am on my way to becoming a software d
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>
 </p>
+
 --
+
 ## 📫 Get In Touch
 
 If you'd like to collaborate or just have a chat about technology and innovation, feel free to reach out:
