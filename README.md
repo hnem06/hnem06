@@ -12,6 +12,19 @@ I am a college in Thang Long University. I am on my way to becoming a software d
  - City : Hanoi - Viet Nam
  - Birth : 11/2006
 
+## 💻 Technical Skills
+  
+  <!-- Programming Languages -->
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  </a>
+
 ## 📫 Get In Touch
 
 If you'd like to collaborate or just have a chat about technology and innovation, feel free to reach out:
