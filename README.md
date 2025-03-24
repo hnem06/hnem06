@@ -32,4 +32,3 @@ If you'd like to collaborate or just have a chat about technology and innovation
 
 - **Email:** [iamhn2006@gmail.com](mailto:iamhn2006@gmail.com)
 - **Facebook:** [hnem.06](https://facebook.com/hnem.06)
-- **Phone:** [0356.911.931](tel:0356911931)
